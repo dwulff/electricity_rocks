@@ -1,2 +1,2 @@
-# electricity_rocks
+# Electricity rocks
 Electricity in Basel project
